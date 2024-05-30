@@ -5,4 +5,4 @@
 
 To use these you will need to edit the scripts to point to the correct folders.
 
-Further development will provide more robust installation of these files to hopefully allow for out of the box running, and more comments.**
+Further development will provide more robust installation of these files to hopefully allow for out of the box running, and more comments.
